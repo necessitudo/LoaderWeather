@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="initial_cities">
+        <item>Kazan</item>
+        <item>Moscow</item>
+        <item>London</item>
+        <item>Washington</item>
+        <item>Berlin</item>
+    </string-array>
+
+    <string-array  name="initial_cites_id">
+        <item>551487</item>
+        <item>524901</item>
+        <item>2643743</item>
+        <item>5815135</item>
+        <item>2950159</item>
+    </string-array>
+
+
+
+</resources>
